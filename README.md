@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is ALGIZ</h2>
 
-###
-
-<img align="right" height="150" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/algiz-rune-and-deer-in-silver-creativemotions.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
